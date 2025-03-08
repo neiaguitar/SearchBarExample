@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchBarExample", "SearchBarExample\SearchBarExample.csproj", "{708C2CFC-FFB4-4F98-86E6-6E79E743A18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708C2CFC-FFB4-4F98-86E6-6E79E743A18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708C2CFC-FFB4-4F98-86E6-6E79E743A18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708C2CFC-FFB4-4F98-86E6-6E79E743A18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708C2CFC-FFB4-4F98-86E6-6E79E743A18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB740F7-9F0D-4727-A8C3-BDBC2A6D405A}
+	EndGlobalSection
+EndGlobal
